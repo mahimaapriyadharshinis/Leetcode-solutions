@@ -54,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0371-sum-of-two-integers](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0371-sum-of-two-integers](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Hash Table
 |  |
