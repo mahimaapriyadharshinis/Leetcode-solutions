@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
+| [2384-root-equals-sum-of-children](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
+| [2384-root-equals-sum-of-children](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Math
 |  |
 | ------- |
