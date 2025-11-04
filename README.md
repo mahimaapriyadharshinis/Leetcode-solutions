@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Binary Search
 |  |
@@ -152,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1833-find-the-highest-altitude](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
