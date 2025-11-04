@@ -12,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0792-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
