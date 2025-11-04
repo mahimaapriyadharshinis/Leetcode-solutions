@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -87,12 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0371-sum-of-two-integers](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0645-set-mismatch](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1319-unique-number-of-occurrences](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0645-set-mismatch](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Trie
 |  |
