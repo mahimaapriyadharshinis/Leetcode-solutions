@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1894-merge-strings-alternately](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 ## Depth-First Search
 |  |
 | ------- |
