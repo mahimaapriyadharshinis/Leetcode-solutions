@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -68,9 +69,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0371-sum-of-two-integers](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
