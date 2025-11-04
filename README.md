@@ -26,14 +26,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 ## Math
 |  |
 | ------- |
@@ -50,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
