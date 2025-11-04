@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [2428-equal-row-and-column-pairs](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## String
@@ -101,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
