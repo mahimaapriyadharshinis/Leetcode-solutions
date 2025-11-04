@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0792-binary-search) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
 | ------- |
