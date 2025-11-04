@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Depth-First Search
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
