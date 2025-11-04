@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0238-product-of-array-except-self](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
