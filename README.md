@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
