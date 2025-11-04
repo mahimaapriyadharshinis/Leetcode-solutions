@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
@@ -60,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
