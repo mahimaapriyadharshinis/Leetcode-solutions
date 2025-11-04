@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
