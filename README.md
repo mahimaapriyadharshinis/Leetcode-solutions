@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mahimaapriyadharshinis/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Depth-First Search
