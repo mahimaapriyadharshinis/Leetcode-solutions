@@ -1,5 +1,5 @@
 # Leetcode-solutions
-A collection of my previously solved **LeetCode problems** — synced using **LeetHub v2**.
+A collection of my solved **LeetCode problems** — synced using **LeetHub v2**.
 
 These solutions represent my practice over time to strengthen **Data Structures and Algorithms (DSA)** concepts and improve problem-solving skills. I had solved many of these earlier, and I’m now syncing them to GitHub to maintain consistent progress tracking and version control. Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
